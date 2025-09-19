@@ -1,0 +1,8 @@
+{
+  "name": "kunai",
+  "description": "kunai",
+  "image": "https://raw.githubusercontent.com/kangbaek324/ERCToken-study/main/ERC-1155/metadata/images/kunai.png", 
+  "attributes": [
+    { "type": "knife" }
+  ]
+}
